@@ -1,0 +1,258 @@
+@media(max-width:1080px) {
+
+    .main__first {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        margin-top: 666px;
+    }
+
+    .main__two .main__two-content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        max-width: 1080px;
+    }
+
+    .header__content {
+        margin-top: 80px;
+        justify-content: center;
+    }
+
+    .flexes {
+        display: none;
+    }
+
+    .div img {
+        width: 100%;
+    }
+
+    .block {
+        max-width: initial;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .div-title {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .main__block-cons {
+        max-width: initial;
+        width: 100%;
+        justify-content: center;
+        display: flex;
+    }
+
+    .main__block {
+        width: 100%;
+    }
+
+    .hhh {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .main__tree {
+        flex-direction: column;
+    }
+
+    .main__block-cons {
+        width: 100%;
+    }
+
+    .header-bg img {
+        width: 100%;
+    }
+
+    .header-bg {
+        width: 100%;
+    }
+}
+
+@media(max-width:768px) {
+    .header__content {
+        flex-direction: column;
+    }
+
+    .bg {
+        width: 100%;
+    }
+
+    .footer__form {
+        display: none;
+    }
+
+    .h9ije-title {
+        font-size: 20px;
+    }
+
+    .main__block-cons {
+        width: 100%;
+
+    }
+
+    .main__first {
+        margin-top: 333px;
+    }
+}
+
+@media(max-width:878px) {
+    .main__first {
+        margin-top: 450px;
+    }
+}
+
+@media(max-width:540px) {
+    .main__last {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .header__mt {
+        margin-top: 200px;
+    }
+
+    .h9ije a {
+        display: flex;
+        width: max-content;
+        margin: 0 auto;
+    }
+
+    .main__first {
+        margin-top: 20PX;
+    }
+
+    .div-title {
+        font-size: 20px;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .gt {
+        flex-direction: column;
+    }
+
+    .div-paragraf {
+        max-width: 200px;
+    }
+
+    .div img {
+        display: none;
+    }
+
+    .header__nav .container {
+        flex-direction: column;
+    }
+
+    .header__nav-right {
+        display: flex;
+        width: max-content;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .gg {
+        display: none;
+    }
+
+    .footer__block {
+        flex-direction: column;
+    }
+
+    .left {
+        /* justify-content: center; */
+        margin: 0 auto;
+    }
+
+    .footer .container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin: 0 auto;
+        align-items: center;
+
+    }
+
+    .footer {
+        padding: 0;
+    }
+
+    .footer__content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .footer__block-link {
+        text-align: center;
+    }
+
+    .footer__block-list {
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+
+@media(max-width:668px) {
+    .gg {
+        display: none;
+    }
+
+    .h9ije a {
+        margin: 0 auto;
+    }
+
+    .main__last {
+        padding: 88px 97px 0 122px
+    }
+
+    .main__first {
+        margin-top: 200px;
+    }
+
+    .h9ije-title {
+        max-width: initial;
+        text-align: center;
+    }
+}
+
+@media(max-width:400px) {
+
+    .header__mt {
+        display: flow;
+    }
+
+    .header__consol-title{
+        font-size: 30px;
+    }
+    .header__content{
+        flex-direction: column;
+        margin-top: 300px;
+    }
+
+}
+@media(max-width:320px){
+    .header__content{
+        margin-top: 200px;
+    }
+}
